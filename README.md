@@ -6,3 +6,7 @@ The main goal of the human interface is to recognize the users emotional state p
 the dataset i worked on is " RAVADESS" it's available on kaggle 
 
 In conclusion, speech emotion recognition has emerged as a highly promising and rapidly evolving field of research, offering significant potential for practical applications. This documentation has explored various approaches and techniques utilized in the development of speech emotion recognition systems, demonstrating the feasibility of accurately recognizing emotions from speech signals.
+
+
+
+![image](https://github.com/user-attachments/assets/9206aa84-c906-4f9a-b4af-7bfd0c823a6a)
